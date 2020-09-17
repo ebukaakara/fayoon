@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://ebuka:akara@cluster0.5h444.mongodb.net/devehub?retryWrites=true&w=majority",
+    "jwtSecret": "mydevehubsecret",
+    "githubToken": "aed0f0d958df49345225",
+    "githubSecret": "3e5ce3075afaefb3f43c98520bb63f1016d7618c"
+}
